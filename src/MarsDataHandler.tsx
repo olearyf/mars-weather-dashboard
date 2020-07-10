@@ -23,7 +23,6 @@ export class MarsDataHandler {
 
     public parseData() {
         let sol_keys: [] = this.parsedData.sol_keys;
-        console.log(this.parsedData.sol_keys)
         this.compiledData = [];
         for (let i = 0; i < this.parsedData.sol_keys.length; i++) {
             this.compiledData.push({

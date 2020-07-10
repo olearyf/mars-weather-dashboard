@@ -31,7 +31,6 @@ export class PageLayout extends React.Component<{}, IPageLayoutStates> {
 
   public async componentWillMount() {
     await this.marsDataHandler.getData();
-    console.log(this.marsDataHandler.getCompiledData())
     this.setState({
       data: this.marsDataHandler.getCompiledData()
     })
@@ -39,7 +38,6 @@ export class PageLayout extends React.Component<{}, IPageLayoutStates> {
   }
   
   public render() {
-    console.log(this.state.data);
     return(
       <div className="Content">
         <Stack tokens={this.stackTokens}>
