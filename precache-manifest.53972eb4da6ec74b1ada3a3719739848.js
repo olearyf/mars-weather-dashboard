@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65233759449529d3fe0aba5a3923fcc0",
+    "revision": "3c89d66fd0c070408aa48a7e4f78abde",
     "url": "/mars-weather-dashboard/index.html"
   },
   {
