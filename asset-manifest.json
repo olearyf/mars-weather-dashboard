@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/mars-weather-dashboard/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mars-weather-dashboard/static/js/main.7f596453.chunk.js",
-    "main.js.map": "/mars-weather-dashboard/static/js/main.7f596453.chunk.js.map",
+    "main.css": "/mars-weather-dashboard/static/css/main.6247b9cb.chunk.css",
+    "main.js": "/mars-weather-dashboard/static/js/main.2907e637.chunk.js",
+    "main.js.map": "/mars-weather-dashboard/static/js/main.2907e637.chunk.js.map",
     "runtime-main.js": "/mars-weather-dashboard/static/js/runtime-main.bfd19e26.js",
     "runtime-main.js.map": "/mars-weather-dashboard/static/js/runtime-main.bfd19e26.js.map",
-    "static/js/2.522b815e.chunk.js": "/mars-weather-dashboard/static/js/2.522b815e.chunk.js",
-    "static/js/2.522b815e.chunk.js.map": "/mars-weather-dashboard/static/js/2.522b815e.chunk.js.map",
+    "static/js/2.c0981840.chunk.js": "/mars-weather-dashboard/static/js/2.c0981840.chunk.js",
+    "static/js/2.c0981840.chunk.js.map": "/mars-weather-dashboard/static/js/2.c0981840.chunk.js.map",
     "index.html": "/mars-weather-dashboard/index.html",
-    "precache-manifest.206eb3c4b19869ba79c0a47d53cbc0f5.js": "/mars-weather-dashboard/precache-manifest.206eb3c4b19869ba79c0a47d53cbc0f5.js",
+    "precache-manifest.58966dcd9701fa94f24580ab4d090334.js": "/mars-weather-dashboard/precache-manifest.58966dcd9701fa94f24580ab4d090334.js",
     "service-worker.js": "/mars-weather-dashboard/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mars-weather-dashboard/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.522b815e.chunk.js.LICENSE.txt": "/mars-weather-dashboard/static/js/2.522b815e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mars-weather-dashboard/static/media/logo.5d5d9eef.svg"
+    "static/css/main.6247b9cb.chunk.css.map": "/mars-weather-dashboard/static/css/main.6247b9cb.chunk.css.map",
+    "static/js/2.c0981840.chunk.js.LICENSE.txt": "/mars-weather-dashboard/static/js/2.c0981840.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bfd19e26.js",
-    "static/js/2.522b815e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7f596453.chunk.js"
+    "static/js/2.c0981840.chunk.js",
+    "static/css/main.6247b9cb.chunk.css",
+    "static/js/main.2907e637.chunk.js"
   ]
 }
