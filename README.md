@@ -1,7 +1,7 @@
 ## Welcome to the Mars Weather Dashboard!
 ### MAY 2021 UPDATE
 Due to an update in the privacy settings of Chrome, the website is no longer visible as the API call fails and the error
-`Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.`. This causes the data to not load. This problem will be resolved soon!
+`Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.` is thrown. This causes the data to not load. This problem will be resolved soon!
 ## About
 A simple afternoon project that consists of a simple react app that calls NASA's InSight API and displays weather data from the last x sols on Mars.
 
